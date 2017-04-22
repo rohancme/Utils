@@ -1,0 +1,1 @@
+pkexec the sudoers file and enter rohan's password
