@@ -1,5 +1,6 @@
 #!/bin/bash
 
+$HOME/code/personal/zsh-history/src/hist.py -b
 pushd $HOME/code/personal/secrets
 cp $HOME/.zsh_hist_backup.db ./backups/.zsh_hist_backup.db
 current_date=$(date)
